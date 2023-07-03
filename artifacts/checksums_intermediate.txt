@@ -1,0 +1,1 @@
+fd25fc5e9c1b66163ee0c24a7c931013f5fad3fc7396e0e8a0328241d432eb7b  ./target/wasm32-unknown-unknown/release/campaign.wasm
